@@ -184,12 +184,6 @@ Change the `if:` on the `ios` job to run for tags (releases) or keep `workflow_d
 
 ---
 
-If you want, I can also:
-
-* Provide a version of the workflow that **builds AAB** instead of APK.
-* Add iOS **code signing** steps (with secrets for cert & provisioning).
-* Convert this into a GitHub repo README and commit it for you (if you give access).
-
 ---
 
-Good luck — paste this README into your repo and you’re ready to reuse the pipeline across projects! 🎉
+Good luck — 
